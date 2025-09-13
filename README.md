@@ -1,0 +1,1 @@
+This tool automatically generates concise and coherent summaries from longer pieces of text. Using advanced natural language processing models, it identifies the most important information and delivers a shortened version that preserves the key points and meaning. Ideal for summarizing articles, reports, essays, or any large body of content.
